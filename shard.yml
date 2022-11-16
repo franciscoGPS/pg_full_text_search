@@ -30,7 +30,7 @@ dependencies:
     github: luckyframework/lucky_task
     version: ~> 0.1.1
   lucky_full_text_search:
-    path: ~/Documents/Nube/Projects/fyc/lucky/pgftsearch/lucky_full_text_search
+    github: franciscoGPS/lucky_full_text_search
 development_dependencies:
   lucky_flow:
     github: luckyframework/lucky_flow

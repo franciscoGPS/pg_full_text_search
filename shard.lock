@@ -69,8 +69,8 @@ shards:
     version: 0.9.0
 
   lucky_full_text_search:
-    path: ~/Documents/Nube/Projects/fyc/lucky/pgftsearch/lucky_full_text_search
-    version: 0.1.1
+    git: https://github.com/franciscogps/lucky_full_text_search.git
+    version: 0.1.1+git.commit.0dbbcf4cdc3e57642fd5adcaf12ff4e705550d21
 
   lucky_router:
     git: https://github.com/luckyframework/lucky_router.git
